@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="front_black_1">#393A3B</color>
+    <color name="colorGray">#A8A8A8</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="theme_purple_color">#4057E8</color>
+    <color name="theme_title_color">#ff0063f5</color>
+    <color name="theme_gray_color">#8A9499</color>
+    <color name="color_1A1A1A">#1A1A1A</color>
+    <color name="color_b31A1A1A">#b31A1A1A</color>
+    <color name="color_991a1a1a">#991a1a1a</color>
+    <color name="color_F6F6F6">#F6F6F6</color>
+    <color name="tab_normal">#333333</color>
+    <color name="tab_select">#ff0000</color>
+    <color name="blue">#4c90f9</color>
+    <color name="main_orange">#F9CC90</color>
+    <color name="color_EBB57A">#EBB57A</color>
+    <color name="color_4d1a1a1a">#4d1a1a1a</color>
+    <color name="color_1a000000">#1a000000</color>
+    <color name="color_661a1a1a">#661a1a1a</color>
+    <color name="color_F9CC90">#F9CC90</color>
+    <color name="color_0CAEF6">#0CAEF6</color>
+    <color name="color_ff1a1a1a">#ff1a1a1a</color>
+    <color name="color_E2CDA4">#E2CDA4</color>
+    <color name="transparence">@android:color/transparent</color>
+    <color name="color_b31a1a1a">#b31a1a1a</color>
+
+    <color name="act_background">#efefef</color>
+    <color name="phone_bg">#f6f6f6</color>
+    <color name="translucent">#66000000</color>
+    <color name="color666">#661B85FF</color>
+    <color name="color_1B85FF">#1B85FF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="them_color_bg">#F7F6F5</color>
+    <color name="color_FDFDFD">#FDFDFD</color>
+    <color name="colorBlack">#000000</color>
+    <color name="color_fff6f6f6">#fff6f6f6</color>
+
+    <color name="load_success">#03a44e</color>
+    <color name="load_failure">#de0e26</color>
+
+    <!--白色透明度-->
+    <color name="translucent_white_05">#f2ffffff</color>
+    <color name="translucent_white_10">#e6ffffff</color>
+    <color name="translucent_white_15">#d9ffffff</color>
+    <color name="translucent_white_20">#ccffffff</color>
+    <color name="translucent_white_25">#bfffffff</color>
+    <color name="translucent_white_30">#b3ffffff</color>
+    <color name="translucent_white_35">#a6ffffff</color>
+    <color name="translucent_white_40">#99ffffff</color>
+    <color name="translucent_white_45">#8cffffff</color>
+    <color name="translucent_white_50">#80ffffff</color>
+    <color name="translucent_white_55">#73ffffff</color>
+    <color name="translucent_white_60">#66ffffff</color>
+    <color name="translucent_white_65">#59ffffff</color>
+    <color name="translucent_white_70">#4dffffff</color>
+    <color name="translucent_white_75">#40ffffff</color>
+    <color name="translucent_white_80">#33ffffff</color>
+    <color name="translucent_white_90">#26ffffff</color>
+    <color name="translucent_white_95">#0dffffff</color>
+
+    <!--黑色透明度-->
+    <color name="translucent_black_05">#f2000000</color>
+    <color name="translucent_black_10">#e6000000</color>
+    <color name="translucent_black_15">#d9000000</color>
+    <color name="translucent_black_20">#cc000000</color>
+    <color name="translucent_black_25">#bf000000</color>
+    <color name="translucent_black_30">#b3000000</color>
+    <color name="translucent_black_35">#a6000000</color>
+    <color name="translucent_black_40">#99000000</color>
+    <color name="translucent_black_45">#8c000000</color>
+    <color name="translucent_black_50">#80000000</color>
+    <color name="translucent_black_55">#73000000</color>
+    <color name="translucent_black_60">#66000000</color>
+    <color name="translucent_black_65">#59000000</color>
+    <color name="translucent_black_70">#4d000000</color>
+    <color name="translucent_black_75">#40000000</color>
+    <color name="translucent_black_80">#33000000</color>
+    <color name="translucent_black_90">#26000000</color>
+    <color name="translucent_black_95">#0d000000</color>
+</resources>
