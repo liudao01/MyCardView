@@ -2,14 +2,12 @@
 
 @[toc]
 # 这是应用内的效果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201113143327202.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdWRhbzc5OTQ=,size_16,color_FFFFFF,t_70#pic_center)
+![这是应用内的效果](https://img-blog.csdnimg.cn/img_convert/e3ecbf5cc842b385e928a2479b603055.gif)
 
 
 # 这是demo的效果
 
-![demo的效果](https://img-blog.csdnimg.cn/2020111314334237.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdWRhbzc5OTQ=,size_16,color_FFFFFF,t_70#pic_center)
-
-
+![这是demo的效果](https://img-blog.csdnimg.cn/img_convert/72fd5a3ce935bee3177be94359b1ccc9.gif)
 
 ---------
 
